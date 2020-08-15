@@ -1,4 +1,4 @@
-![BannerTopo]('https://raw.githubusercontent.com/Marcelo-Diament/Marcelo-Diament/master/img/banner-topo.png')
+![](https://raw.githubusercontent.com/Marcelo-Diament/Marcelo-Diament/master/img/banner-topo.png)
 
 # Desenvolvedor Front End Pleno
 
