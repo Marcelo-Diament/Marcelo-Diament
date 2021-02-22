@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Marcelo-Diament/Marcelo-Diament/master/img/banner-topo.png)
 
-# DExperience Chapter Leader
+# Experience Chapter Leader
 
 Meu nome é **Marcelo Diament** e me tornei desenvolvedor há aproximadamente 4 anos. Confira alguns detalhes sobre minha carreira e planos.
 
