@@ -1,8 +1,8 @@
-# Experience Chapter Leader
+# Development Chapter Leader
 
 Meu nome é **Marcelo Diament** e me tornei desenvolvedor há aproximadamente 4 anos. Confira alguns detalhes sobre minha carreira e planos.
 
-Atualmente atuo como **Experience Chapter Leader** na agência **Driven.cx**, liderando equipes de desenvolvimento e prestando suporte aos demais gestores. Meu objetivo é nivelar o conhecimento entre squads, promover a troca de conhecimento e experiências, comunicar dores e conquistas dos times de desenvolvimento junto a outros times, fornecedores e clientes - visando dar maior autonomia e visibilidade aos desenvolvedores e tornando os processos cada vez mais fluidos.
+Atualmente atuo como **Development Chapter Leader** na agência **Driven.cx**, liderando equipes de desenvolvimento e prestando suporte aos demais gestores. Meu objetivo é nivelar o conhecimento entre squads, promover a troca de conhecimento e experiências, comunicar dores e conquistas dos times de desenvolvimento junto a outros times, fornecedores e clientes - visando dar maior autonomia e visibilidade aos desenvolvedores e tornando os processos cada vez mais fluidos.
 
 Também sou **instrutor de programação web full stack** na **Digital House**, escola na qual também fui aluno. Comecei como instrutor assistente há pouco mais de um ano. Além do contato com alunos, outros professores e _networking_ de maneira geral, me sinto incrivelmente satisfeito em poder dividir o conhecimento adquirido ao longo desses anos. Inicialmente ensinava a _stack_ com **HTML**, **CSS**, **MySQL**, **JS**, **PHP, POO, PDO** e **Laravel**. Mas recentemente a _stack_ foi substituida por **HTML**, **CSS**, **JS**, **ReactJS**, **Express**, **Sequelize**, **Node.js** e **MongoDB**.
 
